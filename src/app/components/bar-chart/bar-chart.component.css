@@ -1,0 +1,32 @@
+ngx-charts-bar-vertical {
+    display: block;
+    margin: 1rem auto;
+  }
+  
+  .no-data {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #6c757d;
+  }
+.chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  max-width: 800px; 
+  width: 100%; /* Ensure it is responsive */
+}
+
+ngx-charts-bar-vertical {
+  width: 100%;
+  max-width: 700px; /* Optional: limit the maximum chart width */
+  height: auto; /* Let height adjust based on content */
+}
+
+/* Optional: Add padding or spacing */
+.chart-container ngx-charts-bar-vertical {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9; /* Light background for better contrast */
+}

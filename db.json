@@ -1,0 +1,28 @@
+{
+  "userData": [
+    {
+      "id": "2",
+      "name": "basmati",
+      "price": 120,
+      "category": "rice"
+    },
+    {
+      "name": "suhana",
+      "price": 199,
+      "category": "masala",
+      "id": "3063"
+    },
+    {
+      "id": "2215",
+      "name": "atta",
+      "price": 300,
+      "category": "fortune"
+    },
+    {
+      "id": "d5b6",
+      "name": "notebook",
+      "price": 180,
+      "category": "classmate"
+    }
+  ]
+}

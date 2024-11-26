@@ -1,0 +1,26 @@
+p-table {
+    margin: 1rem 0;
+  }
+  
+  button {
+    margin-right: 0.5rem;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button.delete {
+    background-color: #dc3545;
+  }
+  
+  button.delete:hover {
+    background-color: #a71d2a;
+  }
+  
